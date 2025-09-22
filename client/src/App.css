@@ -1,0 +1,6 @@
+.App {
+  min-width: 100%;
+  min-height: 100vh;
+  transition: .5s;
+  background-color: var(--bg-100);
+}
